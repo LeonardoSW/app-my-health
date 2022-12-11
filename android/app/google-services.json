@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540533088049",
+    "project_id": "medicalcontrollermobile",
+    "storage_bucket": "medicalcontrollermobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540533088049:android:a1f0b3263d34bedbfa5a10",
+        "android_client_info": {
+          "package_name": "com.projetoreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540533088049-75l467k7o1e8evm0016llcakomup56gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDuaZB_ubAHP9xa0J0xqhDeSOHyz9Cj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540533088049-75l467k7o1e8evm0016llcakomup56gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
